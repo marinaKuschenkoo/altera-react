@@ -1,0 +1,8 @@
+.page{
+    background-color: #162831;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}

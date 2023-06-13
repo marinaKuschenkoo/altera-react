@@ -1,0 +1,9 @@
+.about{
+    max-width: 1076px;
+    margin: 0 auto;
+  }
+  @media (max-width: 780px){
+    .about{
+      max-width: 700px;
+    }
+  }

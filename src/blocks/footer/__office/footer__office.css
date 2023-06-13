@@ -1,0 +1,11 @@
+.footer__office{
+    background: #018ABE;
+    border-radius: 10px;
+    width: 350px;
+    max-height: 350px;
+}
+@media (max-width: 500px){
+    .footer__office{
+        width: 200px;
+      }
+}

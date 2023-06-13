@@ -1,0 +1,19 @@
+.price__items{
+    display: flex;
+    justify-content: center;
+  }
+  @media (max-width: 1024px){
+    .price__items{
+      padding-left: 40px;
+    }
+  }
+  @media (max-width: 780px){
+    .price__items{
+      flex-direction: column;
+    }
+  }
+  @media (max-width: 500px){
+    .price__items{
+      padding: 0;
+    }
+  }

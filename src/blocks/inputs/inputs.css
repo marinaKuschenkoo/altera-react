@@ -1,0 +1,22 @@
+.inputs{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #878787;
+    border:1px solid #878787;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
+  @media (max-width: 780px){
+    .inputs{
+      max-width: 300px;
+    }
+  }
+  @media (max-width: 500px){
+    .inputs{
+      max-height: 10px;
+    }
+  }

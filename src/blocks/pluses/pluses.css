@@ -1,0 +1,10 @@
+.pluses{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  @media (max-width: 1024px){
+    .pluses{
+      max-width: 1024px;
+    }
+  }

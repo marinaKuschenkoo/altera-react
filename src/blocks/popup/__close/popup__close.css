@@ -1,0 +1,9 @@
+.popup__close{
+    top: -40px;
+    right: -40px;
+}
+@media (max-width: 1024px){
+    .popup__close{
+        right: 6px;
+      }
+}

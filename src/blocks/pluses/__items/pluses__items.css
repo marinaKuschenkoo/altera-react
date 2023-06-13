@@ -1,0 +1,23 @@
+.pluses__items{
+    display: flex;
+    justify-content: space-between;
+  }
+  @media (max-width: 1024px){
+    .pluses__items{
+      width: 900px;
+    }
+  }
+  @media (max-width: 780px){
+    .pluses__items{
+      max-width: 600px;
+    }
+  }
+  @media (max-width: 500px){
+    .pluses__items{
+      flex-direction: column;
+      justify-items: center;
+      align-items: center;
+      max-width: 425px;
+    }
+  }
+  

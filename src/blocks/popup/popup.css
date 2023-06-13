@@ -1,0 +1,91 @@
+.popup {
+    width: 100%;
+    max-height: 1183px;
+    background-color: rgba(0, 0, 0, .6);
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    justify-items: center;
+    align-items: center;
+    z-index: 2;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+    overflow-y: auto;
+}
+.popup__list{
+    list-style: none; /* Убираем исходные маркеры */
+    background: url(../../img/checked.svg) no-repeat; /* Параметры фона */
+    padding-left: 35px; /* Смещаем текст вправо */ 
+    margin-bottom: 19px;
+}
+.popup__img{
+    margin-top: 73px;
+    align-self: flex-start;
+}
+.popup__text{
+    max-width: 860px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+.popup__heading{
+    font-family: 'Roboto';
+    color: #000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 35px;
+    margin-top: 68px;
+}
+.popup_active {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+.services__item-popup{
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    display: flex;
+    position:fixed;
+    margin: 100px auto;
+    align-items: center;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    position: relative;
+}
+.popup__close{
+    top: -40px;
+    right: -40px;
+}
+.popup__exit-button {
+    width: 32px;
+    height: 32px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    background-image: url("../../img/Close_Icon.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+}
+.popup__exit-button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+.popup__item{
+  max-width: 500px;
+}
+.popup__heading_price{
+  padding-bottom: 20px;
+  margin-top: 40px;
+}
+.services__popup{
+    width: 900px;
+    color: black;
+}

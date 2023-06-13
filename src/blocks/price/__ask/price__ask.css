@@ -1,0 +1,34 @@
+.price__ask{
+    width:245px;
+    height: 60px;
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    background-color: #018ABE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:30px;
+    position: relative;
+    bottom: -30px;
+    margin: 0 auto;
+  }
+  .price__ask:hover{
+    cursor: pointer;
+    transition: 0.8s;
+    background: rgba(55, 154, 193,0.8);
+    box-shadow: inset 0 0 0 3px #3a7999;
+  }
+  @media (max-width: 780px){
+    .price__ask{
+      bottom:0;
+    }
+  }
+  @media (max-width: 500px){
+    .price__ask{
+      bottom: -30px;
+      }
+  }

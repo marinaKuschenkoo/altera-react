@@ -1,0 +1,18 @@
+.type__item_text{
+    opacity: 0;
+    position: absolute;
+    font-family: 'Roboto';
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    transition: all 700ms ease-out;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  @media (max-width:500px) {
+    .type__item_text{
+      font-size: 10px;
+    }
+  }

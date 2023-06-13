@@ -1,0 +1,25 @@
+.info__container{
+    width: 1280px;
+    height: 560px;
+    background-image: url(../../../img/more-inform.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  @media (max-width: 1024px){
+    .info__container{
+      max-width: 900px;
+    }
+  }
+  @media (max-width: 780px){
+    .info__container{
+      max-width: 780px;
+    }
+  }
+  @media (max-width: 500px){
+    .info__container{
+      max-width: 425px;
+    }
+  }
+  

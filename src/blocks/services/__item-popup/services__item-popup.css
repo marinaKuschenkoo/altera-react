@@ -1,0 +1,21 @@
+/*.services__item-popup{
+    max-width: 1072px;
+    padding-bottom: 50px;
+}*/
+.services__item-popup{
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    display: flex;
+    position:fixed;
+    margin: 100px auto;
+    align-items: center;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    position: relative;
+    padding-bottom: 50px;
+}
+@media (max-width: 1024px){
+    .services__item-popup {
+        max-width: 1072px;
+      }
+}

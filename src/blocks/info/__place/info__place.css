@@ -1,0 +1,27 @@
+.info__place{
+    max-width: 1200px;
+    height: 360px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  @media (max-width: 1024px){
+    .info__place{
+      width: 900px;
+    }
+  }
+  @media (max-width: 780px){
+    .info__place{
+      width: 780px;
+    }
+  }
+  @media (max-width: 500px){
+    .info__place{
+      width: 425px;
+      flex-direction: column;
+    }
+  }
+  

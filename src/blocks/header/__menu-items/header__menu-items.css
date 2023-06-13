@@ -1,0 +1,20 @@
+.header__menu-items {
+    margin-right: 50px;
+    text-decoration: none;
+    color: #fff;
+}
+.header__menu-items:hover{
+    color: rgb(197, 197, 197);
+    transition: 0.8s;
+}
+@media (max-width: 1024px){
+    .header__menu-items{
+        margin-right: 30px;
+      }
+}
+@media (max-width: 500px){
+    .header__menu-items{
+        margin-right: 0;
+        margin-bottom: 5px;
+      }
+}

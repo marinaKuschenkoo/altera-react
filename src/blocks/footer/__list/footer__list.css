@@ -1,0 +1,14 @@
+.footer__list{
+    margin: 0;
+    padding-bottom: 26px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+}
+@media (max-width: 500px){
+    .footer__list{
+        padding-left: 20px;
+      }
+}

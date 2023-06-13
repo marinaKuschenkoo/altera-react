@@ -1,0 +1,10 @@
+.main__about{
+    max-width: 720px;
+    text-align: center;
+    margin: 93px auto 8px auto;
+    font-family: 'El Messiri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+}

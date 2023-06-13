@@ -1,0 +1,6 @@
+.popup__list{
+    list-style: none; /* Убираем исходные маркеры */
+    background: url(../../../img/checked.svg) no-repeat; /* Параметры фона */
+    padding-left: 35px; /* Смещаем текст вправо */ 
+    margin-bottom: 19px;
+}

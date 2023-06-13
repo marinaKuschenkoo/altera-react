@@ -1,0 +1,16 @@
+.about__item{
+    display: flex;
+    justify-content: space-between;
+  }
+  .about__item:nth-child(2n){
+    flex-direction: row-reverse;
+  }
+  @media (max-width: 500px){
+    .about__item{
+      flex-direction: column;
+    }
+    .about__item:nth-child(2n){
+      flex-direction: column;
+    }
+  }
+  

@@ -1,0 +1,16 @@
+.info__header{
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 140%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #018ABE;
+  }
+  @media (max-width: 500px){
+    .info__header{
+      font-size: 15px;
+    }
+  }

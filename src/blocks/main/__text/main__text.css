@@ -1,0 +1,9 @@
+.main__text{
+    display: flex;
+    flex-direction: column;
+}
+@media (max-width: 1024px){
+    .main__text{
+        max-width: 1024px;
+      }
+}

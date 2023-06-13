@@ -1,0 +1,26 @@
+.price__plus{
+    list-style: none; /* Убираем исходные маркеры */
+    background: url(../../../img/plus.svg) no-repeat; /* Параметры фона */
+    padding-left: 35px; /* Смещаем текст вправо */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%; 
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    background-position-y: center;
+  }
+  .price__plus:nth-child(6n){
+    margin-bottom: 65px;
+  }
+  @media (max-width: 1024px){
+    .price__plus{
+      font-size: 13px;
+    }
+  }
+  @media (max-width: 500px){
+    .price__plus{
+      font-size: 10px;
+    }
+  }

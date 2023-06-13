@@ -1,0 +1,8 @@
+.footer__list-element{
+    list-style: none; /* Убираем исходные маркеры */
+    background: url(../../../img/location.svg) no-repeat; /* Параметры фона */
+    padding-left: 35px; /* Смещаем текст вправо */ 
+    width: 17.76px;
+    height: 25px;
+    margin-bottom: 11px;
+}

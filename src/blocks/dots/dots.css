@@ -1,0 +1,21 @@
+.dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .dots label {
+    display: block;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #413B52;
+    margin: 7px;
+    transition: transform 0.2s, color 0.2s;
+  }
+  @media (max-width: 500px){
+    .dots{
+      width:100vw;
+    }
+  }
+  

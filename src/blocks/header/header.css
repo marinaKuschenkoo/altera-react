@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0px;
+    background-color: #162831;
+    z-index: 1;
+}
+@media (max-width: 1024px){
+    .header{
+      max-width: 1024px;
+    }
+}
+@media (max-width: 780px){
+  .header{
+    max-width: 780px;
+  }
+}
+@media (max-width: 500px){
+  .header{
+    max-width: 425px;
+    flex-direction: column;
+    position: relative;
+  }
+}

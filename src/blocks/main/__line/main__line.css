@@ -1,0 +1,9 @@
+.main__line{
+    margin: 0 auto;
+    height: 60px;
+}
+@media (max-width: 500px){
+    .main__line{
+        width:425px
+      }
+}

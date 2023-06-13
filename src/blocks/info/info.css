@@ -1,0 +1,15 @@
+@media (max-width: 1024px){
+    .info{
+        max-width: 1024px;
+      }
+}
+@media (max-width: 780px){
+  .info{
+    max-width: 780px;
+  }
+}
+@media (max-width: 500px){
+  .info{
+    max-width: 425px;
+  }
+}

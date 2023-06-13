@@ -1,0 +1,9 @@
+.header__nums{
+    display: flex;
+    padding-left: 0px;
+}
+@media (max-width: 1024px){
+    .header__nums{
+        padding-left: 0px;
+      }
+}

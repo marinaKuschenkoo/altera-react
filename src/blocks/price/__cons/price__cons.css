@@ -1,0 +1,16 @@
+.price__cons{
+    margin-top: 32px;
+    margin-bottom: 42px;
+  }
+  @media (max-width: 780px){
+    .price__cons{
+      margin-left: 50px;
+      margin-top: 16px;
+    }
+  }
+  @media (max-width: 500px){
+    .price__cons{
+      margin-left: 30px;
+      padding: 0;
+    }
+  }

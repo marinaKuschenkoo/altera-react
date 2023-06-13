@@ -1,0 +1,9 @@
+@media (max-width: 500px){
+    .feedback__text{
+        margin: 0; /* Убираем внешний отступ */
+        -webkit-line-clamp: 7; /* Число отображаемых строк */
+        display: -webkit-box; /* Включаем флексбоксы */
+        -webkit-box-orient: vertical; /* Вертикальная ориентация */
+        overflow: hidden; /* Обрезаем всё за пределами блока */
+      }
+}

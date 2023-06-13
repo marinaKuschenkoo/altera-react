@@ -1,0 +1,17 @@
+.main__img{
+    height: 600px;
+    position: relative;
+    background: linear-gradient(to right,rgb(1, 14, 21), rgba(0, 0, 0, 0.5)), url(../../../img/first-screen.png) 0 0 no-repeat;
+    background-blend-mode: screen;
+	background-size: cover;
+}
+@media (max-width: 1024px){
+    .main__img{
+        max-width: 100%;
+      }
+}
+@media (max-width: 500px){
+    .main__img{
+        max-height: 90vh;
+      }
+}

@@ -1,0 +1,32 @@
+.services__item{
+    max-width: 900px;
+    background-color: #fff;
+    border-radius: 20px;
+    color: #000;
+    display: flex;
+    margin-right: 42px;
+    margin-bottom: 42px;
+}
+.services__item:hover{
+    cursor: pointer;
+    transition: 0.8s;
+}
+@media (max-width: 1024px){
+    .services__item{
+        max-width: 405px;
+      }
+}
+@media (max-width: 780px){
+    .services__item{
+        max-width: 500px;
+        margin-right: 0;
+      }
+}
+@media (max-width: 500px){
+    .services__item:nth-last-child(1){
+        margin-bottom: 0px;
+      }
+      .services__item{
+        margin-right: 0;
+      }
+}

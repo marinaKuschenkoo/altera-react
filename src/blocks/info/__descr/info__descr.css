@@ -1,0 +1,13 @@
+.info__descr{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #383838;
+  }
+  @media (max-width: 500px){
+    .info__descr{
+      font-size: 12px;
+    }
+  }

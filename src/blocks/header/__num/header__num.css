@@ -1,0 +1,15 @@
+.header__num{
+    color: #fff;
+    list-style: none;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 135%;
+}
+@media (max-width: 1024px){
+    .header__num{
+        font-size: 15px;
+        padding-right: 10px;
+      }
+}

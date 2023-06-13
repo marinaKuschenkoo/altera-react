@@ -1,0 +1,6 @@
+.pluses__plus{
+    width: 255px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

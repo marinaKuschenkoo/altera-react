@@ -1,0 +1,9 @@
+.price{
+    position: relative;
+    margin-bottom: 150px;
+  }
+  @media (max-width: 500px){
+    .price{
+      width: 100vw;
+    }
+  }

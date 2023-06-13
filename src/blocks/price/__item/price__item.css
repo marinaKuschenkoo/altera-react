@@ -1,0 +1,21 @@
+.price__item{
+    width: 364px;
+    background-color: #fff;
+    border-radius: 30px;
+    color: #000;
+    margin-right: 38px;
+  }
+  @media (max-width: 780px){
+    .price__item{
+      max-height: 300px;
+      width: 700px;
+      margin-bottom: 50px;
+    }
+  }
+  @media (max-width: 500px){
+    .price__item{
+      max-height: 300px;
+      width: 100vw;
+      margin-bottom: 50px;
+    }
+  }
