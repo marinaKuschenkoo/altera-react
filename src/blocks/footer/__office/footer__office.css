@@ -6,6 +6,6 @@
 }
 @media (max-width: 500px){
     .footer__office{
-        width: 200px;
+        max-width: 200px;
       }
 }

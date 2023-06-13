@@ -19,7 +19,7 @@
   }
   @media (max-width: 500px){
     .info__container{
-      max-width: 425px;
+      max-width: 100vw;
     }
   }
   

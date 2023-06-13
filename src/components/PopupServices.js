@@ -8,7 +8,7 @@ function PopupServices(props) {
   return (
     <>
       <section className={`popup popup__accounting ${props.isOpenAccounting ? "popup_active" : ""}`}>
-        <div className="services__popup services__item-popup">
+        <div className="services__item-popup">
           <button
             className="popup__exit-button popup__close"
             type="button"
@@ -72,7 +72,7 @@ function PopupServices(props) {
         </div>
       </section>
       <section className={`popup popup__team  ${props.isOpenTeam ? "popup_active" : ""}`}>
-        <div className="services__popup services__item-popup">
+        <div className="services__item-popup">
           <button
             className="popup__exit-button popup__close"
             type="button"
@@ -99,7 +99,7 @@ function PopupServices(props) {
         </div>
       </section>
       <section className={`popup popup__smm  ${props.isOpenSmm ? "popup_active" : ""}`}>
-        <div className="services__popup services__item-popup">
+        <div className="services__item-popup">
           <button
             className="popup__exit-button popup__close"
             type="button"
@@ -132,7 +132,7 @@ function PopupServices(props) {
         </div>
       </section>
       <section className={`popup popup__education  ${props.isOpenEducation ? "popup_active" : ""}`}>
-        <div className="services__popup services__item-popup">
+        <div className="services__item-popup">
           <button
             className="popup__exit-button popup__close"
             type="button"
@@ -155,7 +155,7 @@ function PopupServices(props) {
         </div>
       </section>
       <section className={`popup popup__it  ${props.isOpenIt ? "popup_active" : ""}`}>
-        <div className="services__popup services__item-popup">
+        <div className="services__item-popup">
           <button
             className="popup__exit-button popup__close"
             type="button"
@@ -176,7 +176,7 @@ function PopupServices(props) {
         </div>
       </section>
       <section className={`popup popup__justice  ${props.isOpenJustice ? "popup_active" : ""}`}>
-        <div className="services__popup services__item-popup">
+        <div className="services__item-popup">
           <button
             className="popup__exit-button popup__close"
             type="button"

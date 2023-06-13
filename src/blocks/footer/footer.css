@@ -6,3 +6,8 @@
     margin-top: 80px;
     margin-bottom: 80px;
 }
+@media (max-width:500px) {
+    .footer{
+        max-width: 400px;
+    }
+}

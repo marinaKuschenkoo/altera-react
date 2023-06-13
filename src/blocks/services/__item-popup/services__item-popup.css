@@ -13,6 +13,7 @@
     border-radius: 10px;
     position: relative;
     padding-bottom: 50px;
+    color: #000;
 }
 @media (max-width: 1024px){
     .services__item-popup {

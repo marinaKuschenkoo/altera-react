@@ -62,7 +62,7 @@
 }
 .popup__close{
     top: -40px;
-    right: -40px;
+    /*right: -40px;*/
 }
 .popup__exit-button {
     width: 32px;
