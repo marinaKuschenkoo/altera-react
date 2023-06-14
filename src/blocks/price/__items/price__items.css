@@ -1,12 +1,13 @@
 .price__items{
     display: flex;
     justify-content: center;
+    max-width: 98vw;
   }
-  @media (max-width: 1024px){
+  /* @media (max-width: 1024px){
     .price__items{
       padding-left: 40px;
     }
-  }
+  } */
   @media (max-width: 780px){
     .price__items{
       flex-direction: column;

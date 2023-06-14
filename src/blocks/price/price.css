@@ -1,9 +1,10 @@
 .price{
     position: relative;
     margin-bottom: 150px;
+    max-width: 100vw;
   }
   @media (max-width: 500px){
     .price{
-      width: 100vw;
+      max-width: 100vw;
     }
   }

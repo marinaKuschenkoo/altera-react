@@ -15,7 +15,7 @@
   @media (max-width: 500px){
     .price__item{
       max-height: 300px;
-      width: 100vw;
+      max-width: 90vw;
       margin-bottom: 50px;
     }
   }

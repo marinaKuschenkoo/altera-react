@@ -1,4 +1,4 @@
-const acClick=document.querySelector('.services__item-accounting');
+/*const acClick=document.querySelector('.services__item-accounting');
 const teamClick=document.querySelector('.services__item-team');
 const smmClick=document.querySelector('.services__item-smm');
 const itClick=document.querySelector('.services__item-it');
@@ -43,3 +43,4 @@ priceButtons.forEach(btn=>{
     })
 })
 
+*/

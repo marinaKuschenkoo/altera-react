@@ -5,6 +5,15 @@
   .about__item:nth-child(2n){
     flex-direction: row-reverse;
   }
+  @media (max-width:780px) {
+    .about__item{
+      flex-direction: column;
+      align-items: center;
+    }
+    .about__item:nth-child(2n){
+      flex-direction: column;
+    }
+  }
   @media (max-width: 500px){
     .about__item{
       flex-direction: column;

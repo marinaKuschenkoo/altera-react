@@ -39,8 +39,8 @@ function Slider() {
         className="swiper_container"
       >
         {data.map((user) => (
-          <SwiperSlide key={user.id} classNameName="swiper-wrapper">
-            <div classNameName="slide-content">
+          <SwiperSlide key={user.id} className="swiper-wrapper">
+            <div className="slide-content">
               <div className="testimonials">
                 <label className="item">
                   <h4 className="feedback__heading">{user.namePerson}</h4>

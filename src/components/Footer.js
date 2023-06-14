@@ -3,7 +3,7 @@ function Footer() {
   return (
     <footer className="footer" id="contact">
       <YMaps>
-    <Map style={{width:'600px'}} defaultState={{ center: [44.95, 34.10], zoom: 12}} />
+    <Map style={{width:'50%'}} defaultState={{ center: [44.95, 34.10], zoom: 12}} />
   </YMaps>
       <div className="footer__office">
         <h4 className="footer__header">Офисы</h4>

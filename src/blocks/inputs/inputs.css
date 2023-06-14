@@ -9,10 +9,13 @@
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 12px;
+    max-width: 500px;
   }
   @media (max-width: 780px){
     .inputs{
-      max-width: 300px;
+      /* max-width: 300px; */
+      max-height: 10px;
+      padding: 16px;
     }
   }
   @media (max-width: 500px){

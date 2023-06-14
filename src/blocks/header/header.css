@@ -1,5 +1,6 @@
 .header{
     display: flex;
+    max-width: 100vw;
     align-items: center;
     justify-content: space-between;
     position: sticky;
@@ -15,12 +16,12 @@
 @media (max-width: 780px){
   .header{
     max-width: 780px;
+    flex-direction: column;
   }
 }
 @media (max-width: 500px){
   .header{
     max-width: 425px;
-    flex-direction: column;
     position: relative;
   }
 }
