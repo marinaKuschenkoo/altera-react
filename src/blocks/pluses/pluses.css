@@ -2,10 +2,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 90vw;
+   /* max-width: 90vw;*/
   }
-  @media (max-width: 1024px){
+  @media (min-width: 500px){
     .pluses{
-      max-width: 90vw;
+      max-width: 80vw;
     }
   }

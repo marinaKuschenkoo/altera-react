@@ -4,9 +4,9 @@
     justify-content: space-around;
     margin-top: 80px;
     margin-bottom: 80px;
-    max-width: 96vw;
+    /*max-width: 96vw;*/
 }
-@media (max-width:500px) {
+@media (min-width:500px) {
     .footer{
         max-width: 95vw;
     }

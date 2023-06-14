@@ -13,6 +13,11 @@
       max-width: 900px;
     }
   }
+  @media (max-width: 915px){
+    .info__place{
+      max-width: 87vw;
+    }
+  }
   @media (max-width: 780px){
     .info__place{
       max-width: 780px;
@@ -20,6 +25,7 @@
       flex-direction: column;
     }
   }
+  
   @media (max-width: 500px){
     .info__place{
       max-width: 425px;
