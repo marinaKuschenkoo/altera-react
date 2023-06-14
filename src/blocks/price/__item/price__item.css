@@ -8,6 +8,7 @@
   @media (max-width: 780px){
     .price__item{
       max-height: 300px;
+      margin-right: 0px;
       width: 700px;
       margin-bottom: 50px;
     }

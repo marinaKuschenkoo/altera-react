@@ -1,6 +1,7 @@
 .price__items{
     display: flex;
     justify-content: center;
+    align-items: center;
     max-width: 98vw;
   }
   /* @media (max-width: 1024px){
