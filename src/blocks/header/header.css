@@ -15,13 +15,12 @@
 }
 @media (max-width: 780px){
   .header{
-    max-width: 780px;
+    max-width: 99vw;
     flex-direction: column;
   }
 }
 @media (max-width: 500px){
   .header{
-    max-width: 425px;
     position: relative;
   }
 }
