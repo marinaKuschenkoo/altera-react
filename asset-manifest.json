@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/altera-react/static/css/main.83e1e74f.css",
-    "main.js": "/altera-react/static/js/main.f03344ef.js",
+    "main.js": "/altera-react/static/js/main.e75fe0aa.js",
     "static/js/787.f32b216b.chunk.js": "/altera-react/static/js/787.f32b216b.chunk.js",
     "static/media/line.svg": "/altera-react/static/media/line.072c7dfa4524a1dc3dfb5a01e9a10ff3.svg",
     "static/media/more-inform.png": "/altera-react/static/media/more-inform.f0e1550d0746d70faa92.png",
@@ -12,7 +12,6 @@
     "static/media/ElMessiri.ttf": "/altera-react/static/media/ElMessiri.a24991731bdecad0c9e5.ttf",
     "static/media/proximanova_regular.ttf": "/altera-react/static/media/proximanova_regular.8181ca4b7c2d1189d78a.ttf",
     "static/media/garamond.ttf": "/altera-react/static/media/garamond.49fdd912c9e17897f387.ttf",
-    "static/media/logo.svg": "/altera-react/static/media/logo.4d1c9b6ddff1c05e219a7cdd9951006a.svg",
     "static/media/team-plus.svg": "/altera-react/static/media/team-plus.b24c10c05dd7faf842418d2d8cc1e3eb.svg",
     "static/media/buhgalter.svg": "/altera-react/static/media/buhgalter.85687bfcb8fcb2cecd96de6f9264d86f.svg",
     "static/media/team.svg": "/altera-react/static/media/team.8c4db6578245560401377667367e34ac.svg",
@@ -25,15 +24,16 @@
     "static/media/location.svg": "/altera-react/static/media/location.87db8b9e1f68723149e0.svg",
     "static/media/cons.svg": "/altera-react/static/media/cons.7e064c713f09aec4f941.svg",
     "static/media/phone.svg": "/altera-react/static/media/phone.dd95bfbb7077fd39cdc9df8cd2b13d94.svg",
+    "static/media/logo.svg": "/altera-react/static/media/logo.d1e043ab94162b3cb36491eef01f76f2.svg",
     "index.html": "/altera-react/index.html",
     "static/media/plus.svg": "/altera-react/static/media/plus.00b12692b213349e60fd.svg",
     "static/media/Close_Icon.svg": "/altera-react/static/media/Close_Icon.2ceb783afbab75916ddc.svg",
     "main.83e1e74f.css.map": "/altera-react/static/css/main.83e1e74f.css.map",
-    "main.f03344ef.js.map": "/altera-react/static/js/main.f03344ef.js.map",
+    "main.e75fe0aa.js.map": "/altera-react/static/js/main.e75fe0aa.js.map",
     "787.f32b216b.chunk.js.map": "/altera-react/static/js/787.f32b216b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83e1e74f.css",
-    "static/js/main.f03344ef.js"
+    "static/js/main.e75fe0aa.js"
   ]
 }
