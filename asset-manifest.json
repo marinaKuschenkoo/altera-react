@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/altera-react/static/css/main.83e1e74f.css",
-    "main.js": "/altera-react/static/js/main.47133f60.js",
+    "main.js": "/altera-react/static/js/main.04d10fd2.js",
     "static/js/787.f32b216b.chunk.js": "/altera-react/static/js/787.f32b216b.chunk.js",
-    "static/media/line.svg": "/altera-react/static/media/line.072c7dfa4524a1dc3dfb5a01e9a10ff3.svg",
     "static/media/more-inform.png": "/altera-react/static/media/more-inform.f0e1550d0746d70faa92.png",
     "static/media/Roboto.ttf": "/altera-react/static/media/Roboto.33c6cdbc694881567da1.ttf",
     "static/media/about-2.png": "/altera-react/static/media/about-2.44f85eef949075a5ad14.png",
@@ -11,6 +10,7 @@
     "static/media/about-1.png": "/altera-react/static/media/about-1.be8b837e08c3ee2e605f.png",
     "static/media/ElMessiri.ttf": "/altera-react/static/media/ElMessiri.a24991731bdecad0c9e5.ttf",
     "static/media/proximanova_regular.ttf": "/altera-react/static/media/proximanova_regular.8181ca4b7c2d1189d78a.ttf",
+    "static/media/line.png": "/altera-react/static/media/line.b0a9bb59c1da2ab7c725.png",
     "static/media/logo.png": "/altera-react/static/media/logo.df5bcdeeeb8feceaf9b2.png",
     "static/media/garamond.ttf": "/altera-react/static/media/garamond.49fdd912c9e17897f387.ttf",
     "static/media/team-plus.svg": "/altera-react/static/media/team-plus.b24c10c05dd7faf842418d2d8cc1e3eb.svg",
@@ -29,11 +29,11 @@
     "static/media/plus.svg": "/altera-react/static/media/plus.00b12692b213349e60fd.svg",
     "static/media/Close_Icon.svg": "/altera-react/static/media/Close_Icon.2ceb783afbab75916ddc.svg",
     "main.83e1e74f.css.map": "/altera-react/static/css/main.83e1e74f.css.map",
-    "main.47133f60.js.map": "/altera-react/static/js/main.47133f60.js.map",
+    "main.04d10fd2.js.map": "/altera-react/static/js/main.04d10fd2.js.map",
     "787.f32b216b.chunk.js.map": "/altera-react/static/js/787.f32b216b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83e1e74f.css",
-    "static/js/main.47133f60.js"
+    "static/js/main.04d10fd2.js"
   ]
 }
