@@ -10,8 +10,8 @@
       max-width: 90vw;
       }
 }
-@media (max-width: 500px){
-  .main__img{
-      max-height: 90vh;
-    }
-}
+  @media (max-width: 500px){
+    .main__img{
+        max-height: 90vh;
+      }
+  }
