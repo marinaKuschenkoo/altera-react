@@ -1,6 +1,6 @@
 .main__line{
     margin: 0 auto;
-    height: 60px;
+    height: 40px;
     max-width: 95vw;
 }
 @media (max-width: 500px){
