@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/altera-react/static/css/main.12d33168.css",
+    "main.css": "/altera-react/static/css/main.83e1e74f.css",
     "main.js": "/altera-react/static/js/main.f03344ef.js",
     "static/js/787.f32b216b.chunk.js": "/altera-react/static/js/787.f32b216b.chunk.js",
     "static/media/line.svg": "/altera-react/static/media/line.072c7dfa4524a1dc3dfb5a01e9a10ff3.svg",
@@ -28,12 +28,12 @@
     "index.html": "/altera-react/index.html",
     "static/media/plus.svg": "/altera-react/static/media/plus.00b12692b213349e60fd.svg",
     "static/media/Close_Icon.svg": "/altera-react/static/media/Close_Icon.2ceb783afbab75916ddc.svg",
-    "main.12d33168.css.map": "/altera-react/static/css/main.12d33168.css.map",
+    "main.83e1e74f.css.map": "/altera-react/static/css/main.83e1e74f.css.map",
     "main.f03344ef.js.map": "/altera-react/static/js/main.f03344ef.js.map",
     "787.f32b216b.chunk.js.map": "/altera-react/static/js/787.f32b216b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12d33168.css",
+    "static/css/main.83e1e74f.css",
     "static/js/main.f03344ef.js"
   ]
 }
