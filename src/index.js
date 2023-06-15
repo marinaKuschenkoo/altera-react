@@ -2,11 +2,23 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './components/App';
 import reportWebVitals from './reportWebVitals';
-
+import {BrowserRouter as Router}  from "react-router-dom";
+import { Routes, Route } from 'react-router-dom';
+import Cases from './components/Cases';
+import Slider from './components/Slider';
+import HeaderCases from './components/HeaderCases';
+import ProfileCases from './components/ProfileCases';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Router>
+          <Routes>
+            <Route path="/" element={<App />} />
+            <Route path="/cases" element={<Cases/>}/>
+            <Route path="/profile-cases" element={<ProfileCases/>}/>
+            <Route path="/header-cases" element={<HeaderCases/>}/> 
+          </Routes>
+    </Router>
   </React.StrictMode>
 );
 

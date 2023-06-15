@@ -11,7 +11,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/autoplay";
 import "swiper/css/effect-coverflow";
-import data from "./Data.js";
+import {data} from "./Data.js";
 function Slider() {
   return (
     <div className="slider" id="feedback">

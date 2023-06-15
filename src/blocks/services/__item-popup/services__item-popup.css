@@ -3,6 +3,7 @@
     padding-bottom: 50px;
 }*/
 .services__item-popup{
+    max-width: 900px;
     box-sizing: border-box;
     background-color: #FFFFFF;
     display: flex;
@@ -15,8 +16,8 @@
     padding-bottom: 50px;
     color: #000;
 }
-@media (max-width: 1024px){
+/* @media (max-width: 1024px){
     .services__item-popup {
         max-width: 1072px;
       }
-}
+} */

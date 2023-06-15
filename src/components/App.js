@@ -10,7 +10,13 @@ import Price from "./Price.js";
 import Footer from "./Footer.js";
 import PopupServices from "./PopupServices.js";
 import PopupPrice from "./PopupPrice.js";
+import Cases from "./Cases"
 import { useState } from "react";
+import {
+  Route,
+  Routes,
+  useNavigate,
+} from "react-router-dom";
 function App() {
 const [IsAccountingPopupOpen, setIsAccountingPopupOpen] = useState(false);
 const [IsTeamPopupOpen, setIsTeamPopupOpen] = useState(false);
@@ -50,11 +56,14 @@ const closeAllPopups=()=>{
     setIsJusticePopupOpen(false)
     setIsPricePopupOpen(false)
 }
+
   return (
+    
     <div className="App">
       <div class="page">
         <main class="main">
-          <Header />
+          <></>
+          <Header/>
           <Main />
           <Services
             onAccountingClick={handleAccountingClick}

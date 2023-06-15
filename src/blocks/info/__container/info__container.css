@@ -1,5 +1,6 @@
 .info__container{
-    max-width:100vw;
+    max-width: 1280px;
+    margin: 0 auto;
     height: 560px;
     background-image: url(../../../img/more-inform.png);
     background-repeat: no-repeat;

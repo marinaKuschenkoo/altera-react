@@ -10,14 +10,15 @@ function Info() {
               ближайшее время, что бы проконсультировать
             </p>
           </div>
-          <form action="" className="form">
-            <input type="text" placeholder="Имя" className="inputs" />
+          <form action="mail.php" method="POST" className="form">
+            <input type="text" placeholder="Имя" name="user_name" className="inputs" />
             <input
               type="text"
               className="inputs"
+              name="user_phone"
               placeholder="+7 (123) 456 78 90"
             />
-            <button className="form__submit">Отправить заявку</button>
+            <button type="submit" className="form__submit">Отправить заявку</button>
           </form>
         </div>
       </div>
