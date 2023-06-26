@@ -10,6 +10,7 @@ import Price from "./Price.js";
 import Footer from "./Footer.js";
 import PopupServices from "./PopupServices.js";
 import PopupPrice from "./PopupPrice.js";
+import PopupSubmit from "./PopupSubmit";
 import Cases from "./Cases"
 import { useState } from "react";
 import {
@@ -76,7 +77,7 @@ const closeAllPopups=()=>{
           <Slider />
           <Pluses />
           <About />
-          <Info />
+          <Info/>
           <Price
             onClose={closeAllPopups}
             onPriceClick={handlePriceClick}

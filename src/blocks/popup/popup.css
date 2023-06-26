@@ -48,6 +48,7 @@
     display: block;
     opacity: 1;
     visibility: visible;
+    transition-delay: 0s, 0s;
 }
 .services__item-popup{
     box-sizing: border-box;

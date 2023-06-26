@@ -109,3 +109,17 @@
 
 @import url(./blocks/types/types.css);
 
+.succeed__img{
+    max-width: 100px;
+    margin: 0 auto;
+}
+.succees__block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.succeed_text{
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 140%;
+}

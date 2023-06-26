@@ -20,13 +20,15 @@ function PopupPrice(props) {
             type="text"
             placeholder="Имя"
             className="inputs"
-            name="name1"
+            name="name"
+            required
           />
           <input
             type="text"
             className="inputs"
             placeholder="+7 (123) 456 78 90"
-            name="email1"
+            name="email"
+            required
           />
           <button className="form__submit" name="sab">
             Отправить заявку
