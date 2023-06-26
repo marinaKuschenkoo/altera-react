@@ -16,7 +16,7 @@ root.render(
       
     {/* <App /> */}
           <Routes>
-            <Route path="/" element={<App />} />
+            <Route path="/altera-react" element={<App />} />
             <Route path="/cases" element={<Cases/>}/>
             <Route path="/profile-cases" element={<ProfileCases/>}/>
             <Route path="/header-cases" element={<HeaderCases/>}/> 

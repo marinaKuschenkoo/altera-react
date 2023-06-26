@@ -8,19 +8,19 @@ function Header() {
     <header className="header">
       <img src={logo} alt="Логотип АЛЬТЕРА" className="header__logo" />
       <nav className="header__menu">
-        <Link to='/#main' className="header__menu-items" href="#main">
+        <Link to='/altera-react/#main' className="header__menu-items" href="#main">
           Главная
         </Link>
-        <Link to='/#feedback' className="header__menu-items" href="#feedback">
+        <Link to='/altera-react/#feedback' className="header__menu-items" href="#feedback">
           Отзывы
         </Link>
-        <Link to='/#contact' className="header__menu-items" href="#contact">
+        <Link to='/altera-react/#contact' className="header__menu-items" href="#contact">
           Контакты
         </Link>
         <Link to='/cases' className="header__menu-items">
           Кейсы
         </Link>
-        <Link to='/#about' className="header__menu-items" href="#about">
+        <Link to='/altera-react/#about' className="header__menu-items" href="#about">
           О нас
         </Link>
       </nav>
