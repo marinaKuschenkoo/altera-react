@@ -60,7 +60,7 @@ function Info(props) {
           <form id='tg' className="form" onSubmit={handleSubmit}>
             <input type="text" placeholder="Имя" name="name" value={formValue.name} className="inputs" onChange={handleChange} required/>
             <input
-               type="tel"
+              type="tel"
               className="inputs"
               name="phone"
               placeholder="+7 (123) 456 78 90"

@@ -14,7 +14,7 @@ root.render(
     
     <Router>
       
-    <App />
+    {/* <App /> */}
           <Routes>
             <Route path="/" element={<App />} />
             <Route path="/cases" element={<Cases/>}/>
