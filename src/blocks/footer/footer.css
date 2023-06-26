@@ -6,6 +6,11 @@
     margin-bottom: 80px;
     /*max-width: 96vw;*/
 }
+.footer__sub{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgba(183, 183, 183, 0.744);
+}
 @media (min-width:500px) {
     .footer{
         max-width: 95vw;

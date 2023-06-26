@@ -61,8 +61,8 @@ const closeAllPopups=()=>{
   return (
     
     <div className="App">
-      <div class="page">
-        <main class="main">
+      <div className="page">
+        <main className="main">
           <></>
           <Header/>
           <Main />

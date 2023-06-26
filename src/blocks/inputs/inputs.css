@@ -11,6 +11,11 @@
     margin-bottom: 12px;
     max-width: 500px;
   }
+  .inputs__error{
+    margin-top: 0;
+    color: #ec3434;
+    font-size: 13px;
+}
   @media (max-width: 780px){
     .inputs{
       /* max-width: 300px; */

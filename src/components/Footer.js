@@ -1,6 +1,7 @@
 import { YMaps, Map } from '@pbe/react-yandex-maps';
 function Footer() {
   return (
+    <>
     <footer className="footer" id="contact">
       <YMaps>
     <Map style={{width:'50%'}} defaultState={{ center: [44.95, 34.10], zoom: 12}} />
@@ -17,6 +18,8 @@ function Footer() {
         </ul>
       </div>
     </footer>
+    <div className="footer__sub"><span>© Все права защищены ИП "ALTERA" 2023</span></div>
+    </>
   );
 }
 export default Footer;
