@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/altera-react/static/css/main.f4d0365d.css",
-    "main.js": "/altera-react/static/js/main.799006e4.js",
+    "main.js": "/altera-react/static/js/main.27da7bf4.js",
     "static/js/787.f32b216b.chunk.js": "/altera-react/static/js/787.f32b216b.chunk.js",
     "static/media/more-inform.png": "/altera-react/static/media/more-inform.f0e1550d0746d70faa92.png",
     "static/media/Roboto.ttf": "/altera-react/static/media/Roboto.33c6cdbc694881567da1.ttf",
@@ -30,11 +30,11 @@
     "static/media/plus.svg": "/altera-react/static/media/plus.00b12692b213349e60fd.svg",
     "static/media/Close_Icon.svg": "/altera-react/static/media/Close_Icon.2ceb783afbab75916ddc.svg",
     "main.f4d0365d.css.map": "/altera-react/static/css/main.f4d0365d.css.map",
-    "main.799006e4.js.map": "/altera-react/static/js/main.799006e4.js.map",
+    "main.27da7bf4.js.map": "/altera-react/static/js/main.27da7bf4.js.map",
     "787.f32b216b.chunk.js.map": "/altera-react/static/js/787.f32b216b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4d0365d.css",
-    "static/js/main.799006e4.js"
+    "static/js/main.27da7bf4.js"
   ]
 }
