@@ -13,11 +13,6 @@ import PopupPrice from "./PopupPrice.js";
 import PopupSubmit from "./PopupSubmit";
 import Cases from "./Cases"
 import { useState } from "react";
-import {
-  Route,
-  Routes,
-  useNavigate,
-} from "react-router-dom";
 function App() {
 const [IsAccountingPopupOpen, setIsAccountingPopupOpen] = useState(false);
 const [IsTeamPopupOpen, setIsTeamPopupOpen] = useState(false);
