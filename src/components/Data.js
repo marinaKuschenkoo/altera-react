@@ -1,23 +1,27 @@
 export const data = [
     {
         id:1,
-        namePerson: 'Кира Иванова',
-        quotePerson: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus diarisus morbi nulla dictum. Urna mi orci gravida placerat amet, eu,aliquet facilisis aliquet. Dolor praesent nam ornare fringilla enimnibh donec sit imperdiet.'
+        namePerson: 'Анастасия Б.',
+        place: 'Студия красоты',
+        quotePerson: 'Хочу выразить благодарность «Альтера» за оказание услуг,взяли на себя всю работу по составлению документов и « ведению бизнеса», очень понравилась работа SMM-менеджера,которая помогла рассказать людям о нас'
     },
     {
         id:2,
-        namePerson: 'Кира Иванова',
-        quotePerson: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus diarisus morbi nulla dictum. Urna mi orci gravida placerat amet, eu,aliquet facilisis aliquet. Dolor praesent nam ornare fringilla enimnibh donec sit imperdiet.'
+        namePerson: 'Ильченко Е.',
+        place: 'Компания дизайна',
+        quotePerson: 'Хочу выразить огромную благодарность компании "Альтера" за высокий профессионализм, терпение и чуткость в работе с клиентами. В ходе работы с ними все проходило гладко и спокойно. Документация была приведена в порядок. Юридические вопросы так же быстро решились, за что отдельное спасибо. Очень рекомендую данную компанию.'
     },
     {
         id:3,
-        namePerson: 'Кира Иванова',
-        quotePerson: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus diarisus morbi nulla dictum. Urna mi orci gravida placerat amet, eu,aliquet facilisis aliquet. Dolor praesent nam ornare fringilla enimnibh donec sit imperdiet.'
+        namePerson: 'Назаров Олег',
+        place: 'Интернет магазин',
+        quotePerson: 'Долго думал, на счёт того обращаться ли в данную компанию и по отзывам знакомых всё-таки решился, как оказалось не зря. Ребята находились все время на связи, по любому вопросу оказывали консультацию, помогли с оформлением сайта и заполнением его. Спасибо! Буду рекомендовать вас с уверенностью.'
     },
     {
         id:4,
-        namePerson: 'Кира Иванова',
-        quotePerson: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus diarisus morbi nulla dictum. Urna mi orci gravida placerat amet, eu,aliquet facilisis aliquet. Dolor praesent nam ornare fringilla enimnibh donec sit imperdiet.'
+        namePerson: 'Постоев Игорь',
+        place: 'Агенство недвижимости',
+        quotePerson: 'Я - Постоев Игорь. Моя компания занимается сдачей в аренду недвижимости и оборудования для сетей АЗК. В Альтере нас проконсультровали по кадровой политике и финансовому аудиту. Также, помогли с установкой и ведением программы расчета KPI. Остался доволен их услугами, так как работа выполнена грамотно, в срок.'
     }
 ];
 export const headerCards = [

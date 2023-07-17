@@ -44,6 +44,7 @@ function Slider() {
               <div className="testimonials">
                 <label className="item">
                   <h4 className="feedback__heading">{user.namePerson}</h4>
+                  <h4 className="feedback__place">{user.place}</h4>
                   <p className="feedback__text">{user.quotePerson}</p>
                 </label>
               </div>

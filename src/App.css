@@ -17,6 +17,8 @@
 
 @import url(./blocks/feedback/feedback.css);
 @import url(./blocks/feedback/__text/feedback__text.css);
+@import url(./blocks/feedback/__heading/feedback__heading.css);
+@import url(./blocks/feedback/__place/feedback__place.css);
 
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__header/footer__header.css);
