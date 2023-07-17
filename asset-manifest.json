@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/altera-react/static/css/main.e2bc9eef.css",
-    "main.js": "/altera-react/static/js/main.1adb8b5c.js",
+    "main.css": "/altera-react/static/css/main.479f6f81.css",
+    "main.js": "/altera-react/static/js/main.3cfcf989.js",
     "static/js/787.f32b216b.chunk.js": "/altera-react/static/js/787.f32b216b.chunk.js",
     "static/media/more-inform.png": "/altera-react/static/media/more-inform.f0e1550d0746d70faa92.png",
     "static/media/Roboto.ttf": "/altera-react/static/media/Roboto.33c6cdbc694881567da1.ttf",
@@ -29,12 +29,12 @@
     "static/media/succeed.svg": "/altera-react/static/media/succeed.09343123314e3b2ccd5cebe2019dabac.svg",
     "static/media/plus.svg": "/altera-react/static/media/plus.00b12692b213349e60fd.svg",
     "static/media/Close_Icon.svg": "/altera-react/static/media/Close_Icon.2ceb783afbab75916ddc.svg",
-    "main.e2bc9eef.css.map": "/altera-react/static/css/main.e2bc9eef.css.map",
-    "main.1adb8b5c.js.map": "/altera-react/static/js/main.1adb8b5c.js.map",
+    "main.479f6f81.css.map": "/altera-react/static/css/main.479f6f81.css.map",
+    "main.3cfcf989.js.map": "/altera-react/static/js/main.3cfcf989.js.map",
     "787.f32b216b.chunk.js.map": "/altera-react/static/js/787.f32b216b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2bc9eef.css",
-    "static/js/main.1adb8b5c.js"
+    "static/css/main.479f6f81.css",
+    "static/js/main.3cfcf989.js"
   ]
 }
